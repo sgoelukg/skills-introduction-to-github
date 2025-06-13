@@ -1,0 +1,4 @@
+def hello(var):
+  print(var, " is cool")
+
+hello("global")
